@@ -5,6 +5,19 @@
     
     <entry>
       <title>Hello World</title>
+      <link href="/2023/02/08/first/"/>
+      <url>/2023/02/08/first/</url>
+      
+        <content type="html"><![CDATA[<p>This is author’s first pages.</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
       <link href="/2023/02/04/hello-world/"/>
       <url>/2023/02/04/hello-world/</url>
       
