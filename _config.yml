@@ -1,0 +1,12 @@
+title: Laibunizi
+description: 莱布尼兹的个人博客
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
+
+url: "https://letmego.github.io1
+"
+deploy：
+	type：git
+	repository: git@github.com:letmego/letmego.github.io.git
+	branch: master
