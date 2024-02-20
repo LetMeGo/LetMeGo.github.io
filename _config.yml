@@ -4,7 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
 
-url: "https://letmego.github.io1
+url: "https://letmego.github.io
 "
 deploy：
 	type：git
